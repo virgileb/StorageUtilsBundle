@@ -1,5 +1,5 @@
 {
-    "name": "akeneo/storage-utils-bundle",
+    "name": "vimex/storage-utils-bundle",
     "type": "symfony-bundle",
     "description": "Akeneo Symfony Storage Utils Bundle",
     "keywords": ["Akeneo", "Storage", "Utils", "Doctrine", "ORM"],
