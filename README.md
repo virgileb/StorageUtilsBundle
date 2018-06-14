@@ -3,7 +3,7 @@ Storage Utils Bundle
 
 Utils for Doctrine\DBAL, Doctrine\ORM and Doctrine\MongoDBODM.
 
-[![Build Status](https://api.travis-ci.org/akeneo/StorageUtilsBundle.png?branch=master)](https://travis-ci.org/akeneo/StorageUtilsBundle)
+[![Build Status](https://travis-ci.org/vimex/StorageUtilsBundle.svg?branch=master)](https://travis-ci.org/vimex/StorageUtilsBundle)
 
 Akeneo PIM
 ----------
