@@ -13,12 +13,12 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "vimex/storage-utils": "dev-master",
-        "symfony/dependency-injection": "^3.4|^4.1",
-        "symfony/http-kernel": "^3.4|^4.1",
+        "vimex/storage-utils": "^0.1",
+        "symfony/dependency-injection": "^3.4|^4.0",
+        "symfony/http-kernel": "^3.4|^4.0",
         "symfony/config": "^3.4|^4.1",
-        "symfony/options-resolver": "^3.4|^4.1",
-        "symfony/event-dispatcher": "^3.4|^4.1",
+        "symfony/options-resolver": "^3.4|^4.0",
+        "symfony/event-dispatcher": "^3.4|^4.0",
         "doctrine/orm": "^2.5"
     },
     "require-dev": {
